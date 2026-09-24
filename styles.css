@@ -116,4 +116,8 @@ hr {
   .mobile-margin {
     margin: 2rem 2rem 0;
   }
+
+  .mobile-hr-margin {
+    margin: 0 2rem;
+  }
 }
